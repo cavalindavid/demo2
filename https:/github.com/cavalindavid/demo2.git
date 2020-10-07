@@ -1,0 +1,42 @@
+{
+    "cells": [
+        {
+            "cell_type": "code",
+            "execution_count": 1,
+            "metadata": {},
+            "outputs": [
+                {
+                    "data": {
+                        "text/html": "<div>\n<style scoped>\n    .dataframe tbody tr th:only-of-type {\n        vertical-align: middle;\n    }\n\n    .dataframe tbody tr th {\n        vertical-align: top;\n    }\n\n    .dataframe thead th {\n        text-align: right;\n    }\n</style>\n<table border=\"1\" class=\"dataframe\">\n  <thead>\n    <tr style=\"text-align: right;\">\n      <th></th>\n      <th>WELL_NAME</th>\n      <th>LAT</th>\n      <th>LONG</th>\n      <th>X</th>\n      <th>Y</th>\n    </tr>\n  </thead>\n  <tbody>\n    <tr>\n      <th>0</th>\n      <td>Supplejack-1</td>\n      <td>-39.160173</td>\n      <td>174.231151</td>\n      <td>415005.272386</td>\n      <td>411576.526872</td>\n    </tr>\n    <tr>\n      <th>1</th>\n      <td>Tariki-2B</td>\n      <td>-39.199475</td>\n      <td>174.365528</td>\n      <td>426576.126071</td>\n      <td>407175.416904</td>\n    </tr>\n    <tr>\n      <th>2</th>\n      <td>Kapuni-8</td>\n      <td>-39.431302</td>\n      <td>174.180483</td>\n      <td>410595.589204</td>\n      <td>381435.476294</td>\n    </tr>\n    <tr>\n      <th>3</th>\n      <td>Kapuni-1</td>\n      <td>-39.472414</td>\n      <td>174.175483</td>\n      <td>410160.200502</td>\n      <td>376864.629747</td>\n    </tr>\n    <tr>\n      <th>4</th>\n      <td>Radnor-1</td>\n      <td>-39.299885</td>\n      <td>174.266823</td>\n      <td>418044.867622</td>\n      <td>396034.751670</td>\n    </tr>\n  </tbody>\n</table>\n</div>",
+                        "text/plain": "      WELL_NAME        LAT        LONG              X              Y\n0  Supplejack-1 -39.160173  174.231151  415005.272386  411576.526872\n1     Tariki-2B -39.199475  174.365528  426576.126071  407175.416904\n2      Kapuni-8 -39.431302  174.180483  410595.589204  381435.476294\n3      Kapuni-1 -39.472414  174.175483  410160.200502  376864.629747\n4      Radnor-1 -39.299885  174.266823  418044.867622  396034.751670"
+                    },
+                    "execution_count": 1,
+                    "metadata": {},
+                    "output_type": "execute_result"
+                }
+            ],
+            "source": "# The code was removed by Watson Studio for sharing."
+        }
+    ],
+    "metadata": {
+        "kernelspec": {
+            "display_name": "Python 3.6",
+            "language": "python",
+            "name": "python3"
+        },
+        "language_info": {
+            "codemirror_mode": {
+                "name": "ipython",
+                "version": 3
+            },
+            "file_extension": ".py",
+            "mimetype": "text/x-python",
+            "name": "python",
+            "nbconvert_exporter": "python",
+            "pygments_lexer": "ipython3",
+            "version": "3.6.9"
+        }
+    },
+    "nbformat": 4,
+    "nbformat_minor": 1
+}
